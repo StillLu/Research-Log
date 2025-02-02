@@ -22,7 +22,7 @@ This repository aims to:
 |
 ├── README.md              # Overview and navigation guide
 ├── LICENSE                # License information
-├── CONTRIBUTING.md        # Guidelines for contributing to this repo
+
 |
 ├── /Papers                # Summaries and insights from key research papers
 │   ├── AI
@@ -37,8 +37,6 @@ This repository aims to:
 │   │   │   └── AI_Cancer_Detection_Summary.md
 │   │   ├── Diagnostics
 │   │   │   └── Predictive_Models_Sepsis.md
-│   │   ├── Predictive_Modeling
-│   │   │   └── Risk_Scoring_Models.md
 │   │   └── ...
 │   └── Mixed
 |
@@ -70,10 +68,10 @@ This repository aims to:
 │   └── Utils
 │       └── helper_functions.py
 |
-└── /Datasets              # Documentation of datasets used
+└── /Datasets              
     ├── MIMIC-III_Info.md
     ├── ImageNet_Medical_Info.md
-    └── ...
+    
 ```
 
 ---
@@ -82,21 +80,13 @@ This repository aims to:
 
 1. **Papers**: Navigate to the `Papers/` folder to find summaries and key takeaways from influential papers.
 
-   - Example: Check `Papers/AI/LLMs/GPT-4_TechReport_Summary.md` for a breakdown of GPT-4 capabilities.
 
 2. **Notes**: Visit the `Notes/` directory for personal logs, brainstorming ideas, and conference notes.
 
-   - Example: `Notes/Conferences/NeurIPS_2024.md` has insights from NeurIPS sessions.
+  
 
 3. **Code**: Explore the `Code/` folder to find implementations of AI models and experiments.
 
-   - Example: `Code/Medical_Applications/Model_Training/sepsis_prediction_model.py` contains a model for predicting sepsis.
-
-4. **Datasets**: Refer to `Datasets/` for details about the datasets used in experiments.
-
-   - Example: `Datasets/MIMIC-III_Info.md` provides information on the MIMIC-III dataset.
-
----
 
 ---
 
