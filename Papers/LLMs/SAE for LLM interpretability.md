@@ -3,9 +3,10 @@
 
 ## References
 
-1. **Title:** *Explaining in Style: Training a GAN to Explain a Classifier in Style Space*  
-   **Authors:** Shane Barratt, Rishi Sharma  
-   **Link:** [arXiv:2006.13913](https://arxiv.org/abs/2006.13913)
+1. **Title:** *Jumping Ahead: Improving Reconstruction
+Fidelity with JumpReLU Sparse Autoencoders*  
+   **Authors:** SSenthooran Rajamanoharan, Tom Lieberum, Nicolas Sonnerat, Arthur Conmy, Vikrant Varma, János Kramár and Neel Nanda 
+   **Link:** [https://arxiv.org/pdf/2407.14435]
 
 
 ---
