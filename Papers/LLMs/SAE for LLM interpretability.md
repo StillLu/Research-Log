@@ -17,5 +17,5 @@ Fidelity with JumpReLU Sparse Autoencoders*
 
 **Method:**  
 Replace relu with JumpReLU that used Heaviside step function to have SOTA reconstruction fidelity.
-> **Notes:** `gated ReLU variations`, **L₀ differential method** (`straight-through estimators`).
+> **Notes:** `gated ReLU variations`, `L₀ differential method** (straight-through estimators)`.
 
