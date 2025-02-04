@@ -13,10 +13,9 @@ Fidelity with JumpReLU Sparse Autoencoders*
 
 ## Paper Summaries
 
-### 1. *Explaining in Style: Training a GAN to Explain a Classifier in Style Space*
+### 1. *Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders*
 
 **Method:**  
-The authors propose using Generative Adversarial Networks (GANs) to explain classifier decisions by operating in the style space of the data. The GAN learns to manipulate style features that influence the classifier's decision, providing a visual explanation of what the model is focusing on.
+Replace relu with JumpReLU that used Heaviside step function to have SOTA reconstruction fidelity.
+notes: gated Relu variations / L_0 differential method (straight-through-estimators)
 
-**Results:**  
-The method demonstrates that style manipulation can highlight critical features influencing model predictions, offering an interpretable and intuitive understanding of complex classifiers.
