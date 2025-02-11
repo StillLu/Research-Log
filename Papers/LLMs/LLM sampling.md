@@ -13,6 +13,7 @@
 
 ### 1. *Chain-of-Thought Reasoning without Prompting*
 
-**Method:**   
+**Method:**   CoT decoding which extracts CoT paths among the decoded paths
+from the model.
 
-> **Notes:** 
+> **Notes:** 'is it still top-k' 'how to generalize answer-span method in other task'
