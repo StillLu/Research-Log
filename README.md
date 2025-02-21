@@ -96,7 +96,7 @@ This repository aims to:
 - **[2025-02-03]**: Track papers in SAE for LLM interpretability.
 - **[2025-02-08]**: Track papers in test-time scaling.
 - **[2025-02-10]**: Read and coded CoT-decoding.
-- **[2025-02-10]**: Read and update reinforcement learning combined with LLM.
+- **[2025-02-21]**: Read and update reinforcement learning combined with LLM.
 
 Stay tuned for more updates!
 
