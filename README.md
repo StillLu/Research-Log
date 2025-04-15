@@ -91,12 +91,14 @@ This repository aims to:
 ---
 
 ## 📅 Updates
-
+<!--
 - **[2025-02-01]**: Repository created!
 - **[2025-02-03]**: Track papers in SAE for LLM interpretability.
 - **[2025-02-08]**: Track papers in test-time scaling.
 - **[2025-02-10]**: Read and coded CoT-decoding.
 - **[2025-02-21]**: Read and update reinforcement learning combined with LLM.
+-->
+- **[2025-04-15]**: Had to pause due to too many deadlines.
 
 Stay tuned for more updates!
 
